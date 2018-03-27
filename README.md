@@ -24,6 +24,6 @@ using ``` Bottle, Skeleton, and Sci-kit Learn ```
 
 ### Contact
 1. You can contribute to this project by contacting me via :email:
-``` <oluwasegun.somefun@yahoo.co.uk>```
+<oluwasegun.somefun@yahoo.co.uk>
 
 2. You can also help update the telco prefix-number database - ```mobilecode_ii.csv```
