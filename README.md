@@ -26,7 +26,7 @@ Date: :clock3: ```2018-25-01```
 
 - [x] Support Major Nigerian Telcos
 - [ ] Support All Nigerian Telcos
-- [ ] Suport West-African Telcos and Coubntry labels
+- [ ] Suport West-African Telcos and Country labels
 
 ### Contact
 1. You can contribute to this project by contacting me via :email:
