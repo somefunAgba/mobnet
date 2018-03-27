@@ -15,15 +15,15 @@ It can tell if that mobile number is Nigerian.
 ***
 
 :+1: MobNET-AI is Built with :electric_plug:
-using ```Bottle, Skeleton, and Sci-kit Learn```
+using ``` Bottle, Skeleton, and Sci-kit Learn ```
 ```Build Version : BETA 0.1``` | Date :clock3: ```2018-25-01```
 
 - [x] Support Major Nigerian Telcos
-- [] Support All Nigerian Telcos
-- [] Suport West-African Telcos and Coubntry labels
+- [ ] Support All Nigerian Telcos
+- [ ] Suport West-African Telcos and Coubntry labels
 
 ### Contact
 1. You can contribute to this project by contacting me via :email:
-``` oluwasegun.somefun@yahoo.co.uk```
+``` <oluwasegun.somefun@yahoo.co.uk>```
 
 2. You can also help update the telco prefix-number database - ```mobilecode_ii.csv```
