@@ -1,10 +1,10 @@
 # MobNet AI :signal_strength: :ng:
  :copyright: 2018, Oluwasegun Somefun, __FUT,Akure__
 
-Easily identify one of the major telecommunication networks
+Easily identify one of the major telecommunication network service providers
 someone in Nigeria is subscribed to.
 
-> Sometimes, you just can't remember which local mobile network
+> Sometimes, you just can't remember which local mobile network service provider
 :signal_strength:, a mobile number belongs.
 Don't worry, those days are over.
 Meet <b>MobNET AI</b>
